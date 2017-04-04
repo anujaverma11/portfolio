@@ -5,8 +5,18 @@
   box-sizing: border-box;
 }
 
+.title {
+  height: 50px;
+  width: 400px;
+  color: white;
+  margin:50px 10px 50px 10px;
+  background-color: #33BEBE;
+
+}
 .app {
     display: -webkit-flex;
     display: flex;
 }
 
+.image{
+}
