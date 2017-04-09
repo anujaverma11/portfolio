@@ -5,18 +5,35 @@
   box-sizing: border-box;
 }
 
+body {
+  margin: 100px;
+}
 .title {
-  height: 50px;
-  width: 400px;
+  height: 100px;
+  width: 100%;
   color: white;
-  margin:50px 10px 50px 10px;
+  font-size: 32px;
   background-color: #33BEBE;
+  margin-bottom: 50px;
 
+}
+
+h1{
+  font-size: 32px;
+  margin-left: 10px;
+  padding-top: 50px;
 }
 .app {
-    display: -webkit-flex;
-    display: flex;
+  display: -webkit-flex;
+  display: flex;
 }
 
-.image{
+img{
+  height: 400px;
+  width: 500px;
+}
+.description{
+  padding-left:50px;
+  color: #7C8B88;
+  font-size:20px;
 }
