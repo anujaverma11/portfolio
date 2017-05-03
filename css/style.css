@@ -21,3 +21,7 @@ color: #BCBBBB;
   height: 120px;
   width: 140px;
 }
+
+.social-icons a {
+   padding-left: 3em;
+}
